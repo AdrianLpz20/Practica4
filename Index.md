@@ -4,8 +4,8 @@
 Me gusta aprender sobre programación, compartir proyectos y crear contenido útil.
 
 #### Conéctate conmigo
-- [Mi perfil en GitHub](https://github.com/tu-usuario)
-- [Mi LinkedIn](https://linkedin.com/in/tu-usuario)
+- 622337535
+- adrlopgil@alu.edu.gva.es
 
 ---
 Gracias por visitar mi página 😄
