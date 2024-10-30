@@ -1,7 +1,6 @@
-# Bienvenidos a mi página en GitHub Pages
-¡Esta es una página web simple creada usando un archivo Markdown!
+# Bienvenidos a mi página Web
 
-## Sobre mí
+## Sobre mí pagina Web
 Me gusta aprender sobre programación, compartir proyectos y crear contenido útil.
 
 ### Conéctate conmigo
